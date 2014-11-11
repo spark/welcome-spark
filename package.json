@@ -1,9 +1,9 @@
 {
-  "name": "welcome-spark-ide",
+  "name": "welcome-spark",
   "main": "./lib/welcome",
   "version": "0.19.0",
-  "description": "Welcome editor when Atom is opened for the first time",
-  "repository": "https://github.com/suda/welcome-spark-ide",
+  "description": "Welcome editor when Spark Dev is opened for the first time",
+  "repository": "https://github.com/suda/welcome-spark",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

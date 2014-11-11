@@ -5,10 +5,10 @@ module.exports =
     showOnStartup: true
 
   activate: ->
-    atom.workspaceView.command 'welcome-spark-ide:show-welcome-buffer', => @show()
-    if atom.config.get('welcome-spark-ide.showOnStartup')
+    atom.workspaceView.command 'welcome-spark:show-welcome-buffer', => @show()
+    if atom.config.get('welcome-spark.showOnStartup')
       @show()
-      atom.config.set('welcome-spark-ide.showOnStartup', false)
+      atom.config.set('welcome-spark.showOnStartup', false)
       atom.config.set('core.themes', [
         'atom-dark-ui',
         'monokai'
