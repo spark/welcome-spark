@@ -1,7 +1,7 @@
 # Welcome to Spark Dev!
 
 1. To help us improve Spark Dev, we anonymously track usage metrics. See the
-   [atom/metrics](https://github.com/atom/metrics) package for details on what
+   [spark/metrics](https://github.com/spark/metrics) package for details on what
    information is tracked and for instructions on how to disable it.
 
 2. If you only remember one thing make it `ctrl-shift-P`. This keystroke toggles

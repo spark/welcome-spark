@@ -1,12 +1,21 @@
 {
   "name": "welcome-spark",
   "main": "./lib/welcome",
-  "version": "0.20.0",
+  "version": "0.27.0",
   "description": "Welcome editor when Spark Dev is opened for the first time",
-  "repository": "https://github.com/suda/welcome-spark",
+  "repository": "https://github.com/spark/welcome",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {}
+  "consumedServices": {
+    "metrics-reporter": {
+      "versions": {
+        "^1.0.0": "consumeReporter"
+      }
+    }
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.0"
+  }
 }
