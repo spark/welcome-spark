@@ -1,7 +1,7 @@
 # Welcome to Spark Dev!
 
 1. To help us improve Spark Dev, we anonymously track usage metrics. See the
-   [spark/metrics](https://github.com/spark/metrics) package for details on what
+   [spark/metrics](https://github.com/particle-iot/metrics) package for details on what
    information is tracked and for instructions on how to disable it.
 
 2. If you only remember one thing make it `cmd-shift-P`. This keystroke toggles
@@ -14,7 +14,7 @@
    * The [Spark Dev docs](http://docs.spark.io/dev/) contains help with common tasks
      like compiling and flashing devices.
    * Discuss Spark Dev at [community.spark.io](https://community.spark.io/).
-   * The [Spark Dev repository](https://github.com/spark/spark-dev). This is where all
+   * The [Spark Dev repository](https://github.com/particle-iot/spark-dev). This is where all
      core code resides.
 
 4. If you ever want to see this buffer again use the command palette

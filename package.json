@@ -3,7 +3,7 @@
   "main": "./lib/welcome",
   "version": "0.27.0",
   "description": "Welcome editor when Spark Dev is opened for the first time",
-  "repository": "https://github.com/spark/welcome",
+  "repository": "https://github.com/particle-iot/welcome",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
